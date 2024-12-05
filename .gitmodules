@@ -1,0 +1,3 @@
+[submodule "sandbox-flux-infra"]
+	path = sandbox-flux-infra
+	url = https://github.com/amine-rj/sandbox-flux-infra.git
